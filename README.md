@@ -1,4 +1,4 @@
-## GlassWireBackupRestore
+# GlassWireBackupRestore
 
 This repository contains a Windows batch script for exporting and importing the GlassWire database, allowing users to backup and restore their GlassWire settings and graph data easily.
 
