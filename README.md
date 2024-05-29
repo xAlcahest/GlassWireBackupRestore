@@ -24,3 +24,4 @@ Contributions to improve the script or add new features are welcome! Please fork
 
 For any issues or suggestions, please open an issue on GitHub.
 
+## I will not provide an english version. (for now)
